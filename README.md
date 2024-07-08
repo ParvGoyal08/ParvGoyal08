@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I am currntly pusuing B.Tech in CSE at IIITD. I have a working knowledge of python, css, js, html and cpp.
 <!--
 **ParvGoyal08/ParvGoyal08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
