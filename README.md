@@ -1,5 +1,7 @@
 ## Hi there 👋
-I am currntly pusuing B.Tech in CSE at IIITD. I have a working knowledge of python, css, js, html and cpp.
+I am currntly pusuing B.Tech in CSE at IIITD
+I am Working On Data Structures and Codeforces
+I am actively learning about AI and ML and pursuing relevant opportunities
 <!--
 **ParvGoyal08/ParvGoyal08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
